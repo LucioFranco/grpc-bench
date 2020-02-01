@@ -303,6 +303,7 @@ dependencies = [
  "metrics-runtime",
  "pretty_env_logger",
  "prost",
+ "quanta",
  "tokio",
  "tonic",
  "tonic-build",
